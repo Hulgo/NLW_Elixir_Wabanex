@@ -1,5 +1,5 @@
 # NLW - Together - :rocket:
-# Wabanex
+# Elixir - Wabanex
 # Aula 01 - :white_check_mark: - Liftoff
 # Aula 02 - :black_square_button: - Maximum Speed
 # Aula 03 - :black_square_button: - In Orbit
