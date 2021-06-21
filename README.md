@@ -1,4 +1,11 @@
+# NLW - Together - :rocket:
 # Wabanex
+# Aula 01 - :white_check_mark: - Liftoff
+# Aula 02 - :black_square_button: - Maximum Speed
+# Aula 03 - :black_square_button: - In Orbit
+# Aula 04 - :black_square_button: - Landing
+# Aula 05 - :black_square_button: - Surface Explarion
+
 
 To start your Phoenix server:
 
